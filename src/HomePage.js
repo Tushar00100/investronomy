@@ -15,7 +15,7 @@ export const HomePage = () => {
 
             <h1 className='display-4 page-title'>
               Understanding <br />
-              <span className='text-primary small'>investments &amp; savings</span>.
+              <span className='small'>investments &amp; savings</span>.
             </h1>
 
             <p className='lead text-muted mb-6 mb-md-8'>
